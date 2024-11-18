@@ -63,7 +63,9 @@ Essa tela é usada para adicionar os produtos que aparecem na página inicial, p
 
 Esses são os dois gráficos que criei. O gráfico de colunas mostra o total de produtos vendidos, enquanto o gráfico de pizza mostra a quantidade de produtos vendidos pelo ID de cada um. Os gráficos são atualizados toda vez que uma compra é finalizada no carrinho. 
 
-coolocar o login e senha
+**Login**
+Email: diegomatias777@gmail.com
+Senha:123
 
 **Referência**
 
