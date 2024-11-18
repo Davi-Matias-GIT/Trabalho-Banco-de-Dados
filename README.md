@@ -6,7 +6,13 @@ Documentação do trabalho
 Este projeto a qual irei explicar a seguir é apenas um modelo de uma loja de eletrônicos, não é um site completo, 
 podendo ser modificado por quem querer usa-lo da maneira que achar melhor.
 
-**Modelo Entidade Relacionamento**
+**Modelo Entidade Relacionamento (MER)**
+![modelo relacional](https://github.com/user-attachments/assets/c84322c7-3b09-47f0-844b-c2a925effec3)
+
+**Modelo Logico/Relacional**
+
+![Entity Relationship Diagram](https://github.com/user-attachments/assets/abae88cf-31d1-4f3f-a198-e546173675d9)
+
 
 **Página Inicial**
 
